@@ -4,4 +4,4 @@ Mohamed badou IID1
 
 Exercise 1:https://github.com/Mohamed-badou/calcul-c.git
 
-Exercise 2:
+Exercise 2:https://github.com/Mohamed-badou/calcul-c-equipe.git
